@@ -1,0 +1,32 @@
+
+#about-brooklyn .fa-circle { color: #3498db !important; }
+#some-fun-facts .ut-count { color: #3498db !important; }
+#drop-us-a-line { background: #3498db !important; }
+#our-service .section-content h3 { color: #3498db !important; }
+.ut-hover-layer { background-color: rgba(52,152,219, 0.9) !important; }
+#get-connected .section-content h3 { color: #3498db !important; }
+#clients { background: #3498db !important; }
+
+
+
+
+
+#some-fun-facts .ut-counter-box {
+	background: none repeat scroll 0 0 rgba(0, 0, 0, 0.3) !important;
+}
+#our-service .ut-arrow-right {
+	border-left: 10px solid rgba(0, 0, 0, 0.3) !important;
+}
+#our-service .ut-service-box-icon {
+	background: none repeat scroll 0 0 rgba(0, 0, 0, 0.3) !important;
+}
+#contact-section h3 span { 
+	color: #3498db !important; 
+}
+
+
+
+
+
+
+
